@@ -1,0 +1,2 @@
+* capture시에 filterlist 저장 함께.
+* 
