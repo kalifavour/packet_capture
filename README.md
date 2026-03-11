@@ -1,6 +1,4 @@
 # packet_capture
 windows only, save to txt, pcap especially add element type.
  
-![GUI](server.png)
-
-![GUI](client.png)
+![GUI](images/screenshot.png)
