@@ -10,5 +10,5 @@ dist/
 # file
 packet.txt
 packetCell.txt
-mission.txt
 *.pcap
+filterlist.txt
